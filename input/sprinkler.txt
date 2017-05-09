@@ -1,0 +1,2 @@
+1N,Monday,11:15,2:15,1gal,Functional,65
+1N,Tuesday,2:15,4:20,2gal,Functional,75
